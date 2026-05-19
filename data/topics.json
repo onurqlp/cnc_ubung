@@ -1,0 +1,135 @@
+[
+  {
+    "id": "gefahren-im-betrieb",
+    "titleDe": "Gefahren im Betrieb",
+    "titleTr": "İşletmedeki tehlikeler",
+    "merkeDe": "Die Zahl der Betriebsunfälle und Berufserkrankungen kann nur gering gehalten werden, wenn alle Fachkräfte sich der möglichen Gefahren bewusst sind, sich und andere schützen, Schutzausrüstungen nutzen und die Vorschriften zur Unfallverhütung beachten.",
+    "merkeTr": "İş kazalarının ve meslek hastalıklarının sayısı; ancak tüm uzmanlar olası tehlikelerin bilincinde olur, kendilerini ve başkalarını korur, koruyucu donanım kullanır ve iş kazası önleme kurallarına uyarsa düşük tutulabilir."
+  },
+  {
+    "id": "fertigungsauftrag",
+    "titleDe": "Fertigungsauftrag",
+    "titleTr": "Üretim emri / İmalat planı",
+    "merkeDe": "Ein Fertigungsauftrag legt fest, in welcher Reihenfolge ein Werkstück bearbeitet wird, welche Werkzeuge eingesetzt werden und welche Maße zu prüfen sind.",
+    "merkeTr": "Bir üretim emri; bir iş parçasının hangi sırayla işleneceğini, hangi takımların kullanılacağını ve hangi ölçülerin kontrol edileceğini belirler."
+  },
+  {
+    "id": "pruefen",
+    "titleDe": "Prüfen",
+    "titleTr": "Kontrol etme / Muayene",
+    "merkeDe": "Prüfen ist das Vergleichen des vorhandenen Zustands mit dem gewünschten Zustand. Beim Messen wird eine physikalische Größe mit einem Messgerät erfasst und ein Messwert ermittelt. Beim Lehren wird festgestellt, ob der Prüfgegenstand innerhalb vorgegebener Grenzen liegt — das Ergebnis ist kein Zahlenwert.",
+    "merkeTr": "Kontrol etmek; mevcut durumu istenen durumla karşılaştırmaktır. Ölçme sırasında fiziksel bir büyüklük ölçü aleti ile ölçülür ve bir ölçüm değeri elde edilir. Mastarlama (lehren) sırasında ise iş parçasının verilen sınırlar içinde olup olmadığı belirlenir — sonuç bir sayı değildir."
+  },
+  {
+    "id": "messen-mit-dem-messschieber",
+    "titleDe": "Messen mit dem Messschieber",
+    "titleTr": "Kumpas ile ölçme",
+    "merkeDe": "Mit dem Messschieber lassen sich Außen-, Innen- und Tiefenmessungen durchführen. Der Nonius erlaubt das Ablesen von Zehntel- oder Zwanzigstelmillimeter.",
+    "merkeTr": "Kumpas ile dış, iç ve derinlik ölçümleri yapılabilir. Verniye (Nonius), milimetrenin onda biri veya yirmide biri kadar hassasiyetle okuma yapmaya olanak verir."
+  },
+  {
+    "id": "bewegungen-an-spanenden-werkzeugmaschinen",
+    "titleDe": "Bewegungen an spanenden Werkzeugmaschinen",
+    "titleTr": "Talaşlı tezgahlardaki hareketler",
+    "merkeDe": "Beim Spanen (Drehen, Bohren, Fräsen) sind drei Bewegungen entscheidend: die Schnittbewegung, die Vorschubbewegung und die Zustellbewegung. Sie bestimmen Spanungslänge, -breite und -dicke.",
+    "merkeTr": "Talaşlı işlemede (tornalama, delme, frezeleme) üç hareket esastır: kesme hareketi (Schnittbewegung), ilerleme hareketi (Vorschub) ve dalma/yan dalma hareketi (Zustellung). Bunlar talaş uzunluğu, genişliği ve kalınlığını belirler."
+  },
+  {
+    "id": "kuehlschmierstoffe-kss",
+    "titleDe": "Kühlschmierstoffe (KSS)",
+    "titleTr": "Soğutucu yağlar (KSS)",
+    "merkeDe": "Kühlschmierstoffe dienen zum Kühlen und Schmieren. Es gibt nicht wassermischbare und wassermischbare Kühlschmierstoffe. Wassermischbare KSS haben eine größere Kühlwirkung, aber eine geringere Schmierfähigkeit.",
+    "merkeTr": "Soğutucu-yağlayıcılar (KSS); soğutmak ve yağlamak için kullanılır. Suyla karışmayan ve suyla karışan türleri vardır. Suyla karışan KSS’lerin soğutma etkisi daha yüksek, yağlama özelliği ise daha düşüktür."
+  },
+  {
+    "id": "drehen-uebersicht",
+    "titleDe": "Drehen – Übersicht",
+    "titleTr": "Tornalama genel bakış",
+    "merkeDe": "Beim Drehen entstehen zylinder- oder kegelförmige Werkstücke. Schruppen entfernt viel Material in kurzer Zeit; Schlichten erzeugt hohe Maß- und Oberflächengenauigkeit.",
+    "merkeTr": "Tornalamada silindirik veya konik iş parçaları üretilir. Kaba işleme (Schruppen) kısa sürede bol talaş kaldırır; ince işleme (Schlichten) yüksek ölçü ve yüzey kalitesi sağlar."
+  },
+  {
+    "id": "drehmeissel-und-schneidengeometrie",
+    "titleDe": "Drehmeißel und Schneidengeometrie",
+    "titleTr": "Torna kalemi ve kesici geometrisi",
+    "merkeDe": "Der Drehmeißel hat eine Hauptschneide, eine Nebenschneide, Spanfläche und Freiflächen. Die Schneidengeometrie kann positiv (schneidend) oder negativ (schabend) sein.",
+    "merkeTr": "Torna kaleminin bir ana kesici ağzı, bir ikincil kesici ağzı, talaş yüzeyi ve boşluk yüzeyleri vardır. Kesici geometrisi pozitif (kesici) veya negatif (sıyırıcı) olabilir."
+  },
+  {
+    "id": "drehmaschine-bauteile-und-elemente",
+    "titleDe": "Drehmaschine – Bauteile und Elemente",
+    "titleTr": "Torna tezgahı yapı parçaları ve elemanları",
+    "merkeDe": "Eine konventionelle Drehmaschine besteht aus Spindelstock, Werkzeugschlitten, Schlossplatte, Leitspindel/Zugspindel, Maschinenbett, Reitstock und Gestell.",
+    "merkeTr": "Klasik bir torna tezgahı; fener mili kafası, takım arabası, kapak plakası, kılavuz/çekme mili, tezgah yatağı, gezer punta ve gövdeden oluşur."
+  },
+  {
+    "id": "drehen-fertigungsschritte",
+    "titleDe": "Drehen – Fertigungsschritte",
+    "titleTr": "Tornalama üretim adımları",
+    "merkeDe": "Bei der Fertigung von Drehteilen werden Arbeitsgänge mit Werkzeugen, Hilfsmitteln und technologischen Daten (ap, f, vc, n) festgelegt.",
+    "merkeTr": "Torna parçalarının üretiminde iş adımları; takımlar, yardımcı aletler ve teknolojik veriler (ap, f, vc, n) ile belirlenir."
+  },
+  {
+    "id": "fraesen-fraesverfahren-und-fraeser",
+    "titleDe": "Fräsen – Fräsverfahren und Fräser",
+    "titleTr": "Frezeleme yöntemleri ve frezeler",
+    "merkeDe": "Die wichtigsten Fräsverfahren sind Stirnfräsen, Umfangsfräsen, Stirn-Umfangsfräsen und Nutfräsen. Stirnfräsen ist meist zu bevorzugen, weil der Span gleichmäßig ist und die Zerspanungsleistung höher.",
+    "merkeTr": "Başlıca frezeleme yöntemleri: alın frezeleme, çevre frezeleme, alın-çevre frezeleme ve kanal frezelemedir. Genelde alın frezeleme tercih edilir; talaş düzenlidir ve talaş kaldırma performansı daha yüksektir."
+  },
+  {
+    "id": "fraesmaschine-bauteile-und-berechnungen",
+    "titleDe": "Fräsmaschine – Bauteile und Berechnungen",
+    "titleTr": "Freze tezgahı yapı parçaları ve hesaplamalar",
+    "merkeDe": "Eine Fräsmaschine besteht u. a. aus Vertikalfräskopf, Führungsbahn, Frästisch, Maschinenständer, Handrädern, Spänewanne und Positionsanzeige. Drehzahl n und Vorschub vf werden aus vc und fz berechnet.",
+    "merkeTr": "Bir freze tezgahı; dik freze kafası, kızak, freze tablası, makine sütunu, el çarkları, talaş haznesi ve konum göstergesinden oluşur. Devir n ve ilerleme hızı vf; vc ve fz değerlerinden hesaplanır."
+  },
+  {
+    "id": "fraesen-arbeitsplan",
+    "titleDe": "Fräsen – Arbeitsplan",
+    "titleTr": "Frezeleme iş planı",
+    "merkeDe": "Ein Fräs-Arbeitsplan listet jeden Arbeitsgang (Stirnfräsen, Stirn-Umfangsfräsen, Schruppen, Feinschlichten) mit Werkzeug und technologischen Daten (ap, fz, vc, n, vf) auf.",
+    "merkeTr": "Bir frezeleme iş planı; her iş adımını (alın frezeleme, alın-çevre frezeleme, kaba ve ince işleme) takım ve teknolojik verilerle (ap, fz, vc, n, vf) listeler."
+  },
+  {
+    "id": "messschraube-buegelmessschraube",
+    "titleDe": "Messschraube / Bügelmessschraube",
+    "titleTr": "Mikrometre",
+    "merkeDe": "Mit der Bügelmessschraube können Maße mit ISO-Toleranzen sehr genau gemessen werden. Die übliche Steigung beträgt 0,5 mm pro Umdrehung der Messspindel.",
+    "merkeTr": "Kelepçeli mikrometre ile ISO toleranslı ölçüler çok hassas ölçülebilir. Ölçüm milinin standart adımı, devir başına 0,5 mm’dir."
+  },
+  {
+    "id": "grenzlehren",
+    "titleDe": "Grenzlehren",
+    "titleTr": "Sınır mastarları",
+    "merkeDe": "Mit Grenzlehren werden Maße mit ISO-Toleranzen geprüft: Grenzrachenlehren für Wellen, Grenzlehrdorne für Bohrungen. Die Gutseite muss durchgehen, die Ausschussseite darf nicht durchgehen (höchstens „anschnäbeln\").",
+    "merkeTr": "Sınır mastarları ile ISO toleranslı ölçüler kontrol edilir: Miller için kontrol çatalı (Grenzrachenlehre), delikler için tampon mastar (Grenzlehrdorn). Geçer (Gut) tarafı geçmelidir; geçmez (Ausschuss) tarafı geçmemelidir (en fazla “tutuşmalı\")."
+  },
+  {
+    "id": "verbindungsarten",
+    "titleDe": "Verbindungsarten",
+    "titleTr": "Bağlantı türleri",
+    "merkeDe": "Lösbare Verbindungen können ohne Zerstörung gelöst werden, unlösbare nur durch Zerstörung. Unterschieden wird in kraft-, form- und stoffschlüssige Verbindungen.",
+    "merkeTr": "Sökülebilir bağlantılar parçalara zarar vermeden açılabilir; sökülemezler ise yalnızca tahrip edilerek sökülebilir. Bağlantılar kuvvet bağı, biçim bağı ve madde bağı olarak ayrılır."
+  },
+  {
+    "id": "montage-von-schraubenverbindungen",
+    "titleDe": "Montage von Schraubenverbindungen",
+    "titleTr": "Cıvata bağlantılarının montajı",
+    "merkeDe": "Zur Montage von Schrauben werden Schraubenschlüssel (Maul, Ring, Steck), Winkelschraubendreher („Inbus\") und Drehmomentschlüssel verwendet. Drehmoment M = F · l.",
+    "merkeTr": "Cıvata montajında çatal (Maul), yıldız (Ring), lokma (Steck) anahtarlar; açılı tornavidalar (“Allen/Imbus\") ve tork anahtarları kullanılır. Tork M = F · l."
+  },
+  {
+    "id": "wartung-vorbereitung-und-sicherheitszeichen",
+    "titleDe": "Wartung – Vorbereitung und Sicherheitszeichen",
+    "titleTr": "Bakım, hazırlık ve güvenlik işaretleri",
+    "merkeDe": "Vor jeder Wartung müssen der Wartungsplan, die nötigen Betriebsmittel und die Sicherheitshinweise beachtet werden. Sicherheitszeichen werden in Warn-, Verbots-, Gebots-, Rettungs- und Brandschutzzeichen unterteilt.",
+    "merkeTr": "Her bakımdan önce bakım planı, gerekli işletme malzemeleri ve güvenlik talimatları dikkate alınmalıdır. Güvenlik işaretleri; uyarı, yasak, zorunluluk, kurtarma ve yangın koruma işaretleri olarak ayrılır."
+  },
+  {
+    "id": "korrosion",
+    "titleDe": "Korrosion",
+    "titleTr": "Korozyon",
+    "merkeDe": "Korrosion ist die von der Oberfläche ausgehende Zerstörung von Metallen durch metallphysikalische, chemische und elektrochemische Reaktion mit der Umgebung. Sie ist neben dem Verschleiß eine weitere Abnutzungserscheinung.",
+    "merkeTr": "Korozyon, metallerin yüzeyden başlayarak çevreyle olan metalfiziksel, kimyasal ve elektrokimyasal tepkimeler sonucu tahrip olmasıdır. Aşınmayla birlikte ikinci bir yıpranma türüdür."
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "topicId": "gefahren-im-betrieb",
+    "questionDe": "Gebotszeichen weisen das Personal auf die Verwendung von persönlicher Schutzausrüstung hin. Tragen Sie die Bedeutung der Gebotszeichen unterhalb der Symbole ein.",
+    "questionTr": "Zorunluluk işaretleri, personele kişisel koruyucu donanım kullanımını hatırlatır. Sembollerin altına işaretlerin anlamını yazın.",
+    "answerDe": "Augenschutz tragen · Schutzhelm tragen · Gehörschutz tragen · Atemschutz tragen · Schutzhandschuhe tragen",
+    "answerTr": "Koruyucu gözlük tak · Koruyucu kask tak · Kulak koruyucu tak · Solunum maskesi tak · Koruyucu eldiven tak",
+    "questionPronunciationTr": "Gebotstsayhın faysın das Personal auf dii Ferfendung fon persönlihır Şuttsausrüştung in. Tragın Sii dii Bedoytung dea Gebotstsayhın unteralb dea Symbole ayn.",
+    "answerPronunciationTr": "Augınşutts tragın · Şuttselm tragın · Geörşutts tragın · Atemşutts tragın · Şuttsandşue tragın"
+  },
+  {
+    "topicId": "gefahren-im-betrieb",
+    "questionDe": "Verbotszeichen werden verwendet, um ein Verhalten zu verhindern, das eine Gefahr auslösen könnte. Tragen Sie die Bedeutung der Verbotszeichen unterhalb der Symbole ein.",
+    "questionTr": "Yasak işaretleri, tehlikeye yol açabilecek davranışları önlemek için kullanılır. Sembollerin altına işaretlerin anlamını yazın.",
+    "answerDe": "Rauchen verboten · Keine offene Flamme · Für Fußgänger verboten · Essen und Trinken verboten · Kein Trinkwasser",
+    "answerTr": "Sigara içmek yasak · Açık alev yok · Yayalar için yasak · Yemek-içmek yasak · İçme suyu değildir",
+    "questionPronunciationTr": "Ferbotstsayhın ferdın ferfendet, um ayn Feraltın tsu ferindern, das ayne Gefahr auslösın könnte. Tragın Sii dii Bedoytung dea Ferbotstsayhın unteralb dea Symbole ayn.",
+    "answerPronunciationTr": "Rauhın ferbotın · Kayne offene Flamme · Für Fusgengır ferbotın · Essın und Trinkın ferbotın · Kayn Trinkfassır"
+  },
+  {
+    "topicId": "gefahren-im-betrieb",
+    "questionDe": "Warnzeichen dienen der Kennzeichnung von Hindernissen und Gefahrstellen. Tragen Sie unterhalb der Symbole ein, vor welchen Gefahren die Zeichen warnen.",
+    "questionTr": "Uyarı işaretleri, engelleri ve tehlikeli yerleri belirtmek için kullanılır. Sembollerin altına bu işaretlerin hangi tehlikelere karşı uyardığını yazın.",
+    "answerDe": "Feuergefährliche Stoffe · Schwebende Last · Giftige Stoffe · Laserstrahlen · Absturzgefahr · Elektrische Spannung",
+    "answerTr": "Yanıcı maddeler · Asılı yük · Zehirli maddeler · Lazer ışınları · Düşme tehlikesi · Elektrik gerilimi",
+    "questionPronunciationTr": "Farntsayhın diinın dea Kenntsayhnung fon Indernissın und Gefahrstellın. Tragın Sii unteralb dea Symbole ayn, for felhın Gefahrın dii Tsayhın farnın.",
+    "answerPronunciationTr": "Foyergefehrlie Ştoffe · Şfebende Last · Giftige Ştoffe · Laserstrahlın · Absturtsgefahr · Elektrişe Şpannung"
+  },
+  {
+    "topicId": "fertigungsauftrag",
+    "questionDe": "Das Ausgangsmaterial für den Keilschieber ist ein L-Profil von 100x50x10 mm aus einer Aluminiumlegierung. Das L-Profil wurde auf eine Länge von 40,5 mm auf der Kreissäge abgesägt. Alle zu bearbeitenden Flächen sollen geschlichtet werden. Planen Sie den Fertigungsablauf in der Tabelle.",
+    "questionTr": "Kama elemanı için başlangıç malzemesi, alüminyum alaşımdan yapılmış 100x50x10 mm bir L-profilidir. L-profili daire testerede 40,5 mm uzunluğa kesilmiştir. İşlenecek tüm yüzeyler ince işlenecektir. Üretim akışını tabloda planlayın.",
+    "answerDe": "1) Prüfen der Rohmaße – Bandmaß, Messschieber 2) Anreißen des Keilschiebers – Anreißplatte, Winkel, Bandmaß, Parallelreißer, Reißnadel 3) Aussägen der Kontur und der 8 mm breiten Nut – Bandsäge, Stichsäge oder Handbügelsäge 4) Schruppen und Schlichten der äußeren Schrägen und des Radius R20 – einhiebige Flachstumpffeilen, Messschieber, Radiuslehre 5) Schruppen der 8 mm breiten Nut – einhiebige Flachstumpffeile und Vierkantfeile, Messschieber 6) Meißeln der schrägen 8 mm breiten Nut – Kreuzmeißel 7) Schlichten der gesamten Nut und der Radien R2 – Flachstumpffeile und Vierkantfeile, Messschieber, Radiuslehre",
+    "answerTr": "1) Ham ölçülerin kontrolü – şerit metre, kumpas 2) Kama elemanının markalanması – markalama plakası, gönye, şerit metre, paralel markalama aleti, markalama iğnesi 3) Kontur ve 8 mm genişliğindeki kanalın testereyle kesilmesi – şerit, dekupaj veya el testeresi 4) Dış eğimlerin ve R20 yarıçapının kaba ve ince işlenmesi – tek dişli yassı eğe, kumpas, radüs mastarı 5) 8 mm kanalın kaba işlenmesi – tek dişli yassı eğe ve kare eğe, kumpas 6) Eğimli 8 mm kanalın keski ile açılması – haç keski (Kreuzmeißel) 7) Kanalın tümünün ve R2 yarıçaplarının ince işlenmesi – yassı eğe ve kare eğe, kumpas, radüs mastarı",
+    "questionPronunciationTr": "das Ausgangsmaterial für dın Kaylşiibır ist ayn L-Profil fon 100x50x10 mm aus aynır Aluminiumlegiirung. das L-Profil furde auf ayne Lenge fon 40,5 mm auf dea Krayssege abgesegt. Alle tsu bearbaytendın Flehın sollın geşlihtet ferdın. Planın Sii dın Fertigungsablauf in dea Tabelle.",
+    "answerPronunciationTr": "1) Prüfın dea Rohmase – Bandmas, Messşiibır 2) Anraysın des Kaylşiibers – Anraysplatte, Finkel, Bandmas, Parallelraysır, Raysnadel 3) Aussegın dea Kontur und dea 8 mm braytın Nut – Bandsege, Ştihsege odır Andbügelsege 4) Şruppın und Şlihtın dea oyserın Şregın und des Radius R20 – ayniibige Flahstumpffaylın, Messşiibır, Radiuslehre 5) Şruppın dea 8 mm braytın Nut – ayniibige Flahstumpffayle und Fiirkantfayle, Messşiibır 6) Mayseln dea şregın 8 mm braytın Nut – Kroytsmaysel 7) Şlihtın dea gesamtın Nut und dea Radiin R2 – Flahstumpffayle und Fiirkantfayle, Messşiibır, Radiuslehre"
+  },
+  {
+    "topicId": "pruefen",
+    "questionDe": "Unterscheiden Sie subjektives und objektives Prüfen.",
+    "questionTr": "Öznel ve nesnel kontrolü ayırt edin.",
+    "answerDe": "subjektives Prüfen: Der Prüfer prüft nur mit seinen Sinnen ohne technische Hilfsmittel. objektives Prüfen: Der Prüfer prüft mit Prüfmitteln wie z. B. Messgeräten oder Lehren.",
+    "answerTr": "Öznel kontrol: Kontrolör yalnızca duyularıyla, teknik yardımcı alet kullanmadan kontrol eder. Nesnel kontrol: Kontrolör; ölçü aletleri veya mastarlar gibi kontrol aletleriyle kontrol eder.",
+    "questionPronunciationTr": "Untırşaydın Sii subyektifes und obyektifes Prüfın.",
+    "answerPronunciationTr": "subyektifes Prüfın: dea Prüfır prüft nur mit saynın Sinnın ohne tehnişe Ilfsmittel. obyektifes Prüfın: dea Prüfır prüft mit Prüfmitteln fii ts. B. Messgeretın odır Lehrın."
+  },
+  {
+    "topicId": "pruefen",
+    "questionDe": "Beim Messen wird eine physikalische Größe mit einem Messgerät erfasst. Dabei wird ein _______ ermittelt.",
+    "questionTr": "Ölçme sırasında fiziksel bir büyüklük ölçü aletiyle ölçülür. Bu sırada bir _______ elde edilir.",
+    "answerDe": "Messwert",
+    "answerTr": "Messwert (ölçüm değeri)",
+    "questionPronunciationTr": "Baym Messın fird ayne fysikalişe Gröse mit aynem Messgeret erfasst. Dabay fird ayn _______ ermittelt.",
+    "answerPronunciationTr": "Messfert"
+  },
+  {
+    "topicId": "pruefen",
+    "questionDe": "Das Ergebnis des Lehrens ist _______ Zahlenwert.",
+    "questionTr": "Mastarlamanın sonucu _______ sayı değeridir.",
+    "answerDe": "kein",
+    "answerTr": "kein (hiçbir / değil)",
+    "questionPronunciationTr": "das Ergebnis des Lehrens ist _______ Tsahlenfert.",
+    "answerPronunciationTr": "kayn"
+  },
+  {
+    "topicId": "pruefen",
+    "questionDe": "Nennen Sie jeweils drei Prüfbeispiele zum Messen und Lehren und benennen Sie die Messgeräte und Lehren.",
+    "questionTr": "Ölçme ve mastarlama için üçer örnek verin ve kullanılan ölçü aletlerini/mastarları adlandırın.",
+    "answerDe": "Länge eines Flachstahls messen → Bandmaßstab Durchmesser eines Drehteils messen → Messschieber Winkel am Werkstück messen → Winkelmesser Rechten Winkel am Werkstück lehren → Anschlagwinkel Bohrungsdurchmesser lehren → Grenzlehrdorn Ebenheit einer Fläche lehren → Haarlineal",
+    "answerTr": "Yassı çeliğin uzunluğunu ölçmek → şerit ölçü Torna parçasının çapını ölçmek → kumpas İş parçasının açısını ölçmek → açı ölçer İş parçasındaki dik açıyı kontrol etmek → dayama gönyesi Delik çapını kontrol etmek → delik kontrol mastarı Yüzey düzlüğünü kontrol etmek → saç çelik cetvel",
+    "questionPronunciationTr": "Nennın Sii yefayls dray Prüfbayspiile tsum Messın und Lehrın und benennın Sii dii Messgerete und Lehrın.",
+    "answerPronunciationTr": "Lenge aynes Flahstahls messın → Bandmasştab Durhmessır aynes Drehtayls messın → Messşiibır Finkel am Ferkstük messın → Finkelmessır Rehtın Finkel am Ferkstük lehrın → Anşlagfinkel Bohrungsdurhmessır lehrın → Grentslehrdorn Ebenayt aynır Flee lehrın → Aarlineal"
+  },
+  {
+    "topicId": "messen-mit-dem-messschieber",
+    "questionDe": "Benennen Sie die Elemente des Messschiebers in der Abbildung.",
+    "questionTr": "Resimdeki kumpasın parçalarını adlandırın.",
+    "answerDe": "Schneidenförmige Messflächen für Innenmessungen · Feststelleinrichtung (Schraube oder Klemmeinrichtung) · Schieber · Schiene · Tiefenmessstange · Nonius · Messflächen für Tiefenmessung · Beweglicher Messschenkel · Messflächen für Außenmessung · Fester Messschenkel",
+    "answerTr": "İç ölçüm için bıçak ağzı yüzeyler · Kilitleme tertibatı (vida veya kelepçe) · Sürgü · Ray (ana cetvel) · Derinlik ölçüm çubuğu · Verniye (Nonius) · Derinlik ölçümü için yüzeyler · Hareketli ölçüm çenesi · Dış ölçüm yüzeyleri · Sabit ölçüm çenesi",
+    "questionPronunciationTr": "Benennın Sii dii Elemente des Messşiibers in dea Abbildung.",
+    "answerPronunciationTr": "Şnaydenförmige Messflehın für Innenmessungın · Feststellaynrihtung (Şraube odır Klemmaynrihtung) · Şiibır · Şiine · Tiifenmessstange · Nonius · Messflehın für Tiifenmessung · Befeglihır Messşenkel · Messflehın für Ausenmessung · Festır Messşenkel"
+  },
+  {
+    "topicId": "messen-mit-dem-messschieber",
+    "questionDe": "Welche Aufgabe hat der Nonius am Messschieber und wie funktioniert er?",
+    "questionTr": "Verniyenin (Nonius) görevi nedir ve nasıl çalışır?",
+    "answerDe": "Mithilfe des Nonius lassen sich Zehntel- oder Zwanzigstelmillimeter ablesen. Wenn ein 10er-Nonius z. B. 19 mm lang ist, beträgt der Abstand zwischen zwei Strichen 1,9 mm. Fluchtet der erste Strich des Nonius mit der Hauptskala des Messschiebers, beträgt die Nachkommastelle 0,1; fluchtet der zweite, beträgt sie 0,2.",
+    "answerTr": "Verniye sayesinde milimetrenin onda biri veya yirmide biri okunabilir. Örn. 10’lu bir verniye 19 mm uzunluğundaysa iki çizgi arası 1,9 mm’dir. Verniyenin ilk çizgisi ana skalayla aynı hizadaysa ondalık 0,1; ikinci çizgi hizadaysa 0,2 olur.",
+    "questionPronunciationTr": "Fele Aufgabe at dea Nonius am Messşiibır und fii funktioniirt ır?",
+    "answerPronunciationTr": "Mitilfe des Nonius lassın sih Tsehntel- odır Tsfantsigstelmillimetır ablesın. Fenn ayn 10ır-Nonius ts. B. 19 mm lang ist, betregt dea Abstand tsfişın tsfay Ştrihın 1,9 mm. Fluhtet dea erste Ştrih des Nonius mit dea Auptskala des Messşiibers, betregt dii Nahkommastelle 0,1; fluhtet dea tsfayte, betregt sii 0,2."
+  },
+  {
+    "topicId": "messen-mit-dem-messschieber",
+    "questionDe": "Lesen Sie die Messergebnisse an den Nonien ab.",
+    "questionTr": "Verniyelerdeki ölçüm sonuçlarını okuyun.",
+    "answerDe": "4,8 mm · 11,5 mm · 19,9 mm · 29,7 mm · 112,4 mm · 59,3 mm",
+    "answerTr": "4,8 mm · 11,5 mm · 19,9 mm · 29,7 mm · 112,4 mm · 59,3 mm",
+    "questionPronunciationTr": "Lesın Sii dii Messergebnisse an dın Noniin ab.",
+    "answerPronunciationTr": "4,8 mm · 11,5 mm · 19,9 mm · 29,7 mm · 112,4 mm · 59,3 mm"
+  },
+  {
+    "topicId": "messen-mit-dem-messschieber",
+    "questionDe": "Die kleinste ablesbare Maßänderung wie z. B. 1/10 mm oder 1/20 mm heißt _______.",
+    "questionTr": "Okunabilen en küçük ölçü değişimine (örn. 1/10 mm veya 1/20 mm) _______ denir.",
+    "answerDe": "Noniuswert",
+    "answerTr": "Noniuswert (verniye değeri)",
+    "questionPronunciationTr": "dii klaynste ablesbare Masenderung fii ts. B. 1/10 mm odır 1/20 mm ayst _______.",
+    "answerPronunciationTr": "Noniusfert"
+  },
+  {
+    "topicId": "bewegungen-an-spanenden-werkzeugmaschinen",
+    "questionDe": "Füllen Sie in den Abbildungen die Pfeile für die Schnittbewegung rot, für die Vorschubbewegung blau und für die Zustellbewegung grün aus.",
+    "questionTr": "Resimlerde kesme hareketi okunu kırmızı, ilerleme hareketi okunu mavi ve yan dalma hareketi okunu yeşil renkle boyayın.",
+    "answerDe": "Schnittbewegung = rot · Vorschubbewegung = blau · Zustellbewegung = grün",
+    "answerTr": "Kesme hareketi = kırmızı · İlerleme hareketi = mavi · Yan dalma hareketi = yeşil",
+    "questionPronunciationTr": "Füllın Sii in dın Abbildungın dii Pfayle für dii Şnittbefegung rot, für dii Forşubbefegung blau und für dii Tsustellbefegung grün aus.",
+    "answerPronunciationTr": "Şnittbefegung = rot · Forşubbefegung = blau · Tsustellbefegung = grün"
+  },
+  {
+    "topicId": "bewegungen-an-spanenden-werkzeugmaschinen",
+    "questionDe": "Tragen Sie in die Abbildungen für den Vorschub f und für die Zustellung ap ein.",
+    "questionTr": "Resimlere ilerleme f ve yan dalma ap değerlerini yazın.",
+    "answerDe": "f = Vorschub (mm/U bzw. mm/min); ap = Zustellung/Schnitttiefe (mm).",
+    "answerTr": "f = ilerleme (mm/dev veya mm/dak); ap = yan dalma / kesme derinliği (mm).",
+    "questionPronunciationTr": "Tragın Sii in dii Abbildungın für dın Forşub f und für dii Tsustellung ap ayn.",
+    "answerPronunciationTr": "f = Forşub (mm/U btsf. mm/min); ap = Tsustellung/Şnitttiife (mm)."
+  },
+  {
+    "topicId": "bewegungen-an-spanenden-werkzeugmaschinen",
+    "questionDe": "Welche Größe wird beim Drehen und Bohren an der Werkzeugmaschine für die Vorschubbewegung eingestellt?",
+    "questionTr": "Tornalama ve delmede tezgahta ilerleme hareketi için hangi büyüklük ayarlanır?",
+    "answerDe": "Es wird der Vorschub pro Umdrehung in mm eingestellt.",
+    "answerTr": "Devir başına ilerleme (mm/dev) ayarlanır.",
+    "questionPronunciationTr": "Fele Gröse fird baym dreeın und Bohrın an dea Ferktsoygmaşine für dii Forşubbefegung ayngestellt?",
+    "answerPronunciationTr": "Es fird dea Forşub pro Umdreung in mm ayngestellt."
+  },
+  {
+    "topicId": "bewegungen-an-spanenden-werkzeugmaschinen",
+    "questionDe": "Welche Größe wird beim Fräsen an der Fräsmaschine für die Vorschubbewegung eingestellt?",
+    "questionTr": "Frezelemede freze tezgahında ilerleme hareketi için hangi büyüklük ayarlanır?",
+    "answerDe": "Es wird die Vorschubgeschwindigkeit in mm/min eingestellt.",
+    "answerTr": "İlerleme hızı (mm/dak) ayarlanır.",
+    "questionPronunciationTr": "Fele Gröse fird baym freezın an dea Fresmaşine für dii Forşubbefegung ayngestellt?",
+    "answerPronunciationTr": "Es fird dii Forşubgeşfindigkayt in mm/min ayngestellt."
+  },
+  {
+    "topicId": "bewegungen-an-spanenden-werkzeugmaschinen",
+    "questionDe": "Ergänzen Sie die Sätze über die Wahl der Schnittgeschwindigkeit: • Je härter und verschleißfester der Werkzeugwerkstoff, desto _____ kann die Schnittgeschwindigkeit gewählt werden. • Je härter und fester der Werkstückwerkstoff, desto _____ ist die Schnittgeschwindigkeit zu wählen. • Je besser die Kühlschmierung, desto _____ kann die Schnittgeschwindigkeit gewählt werden. • Je kleiner die Standzeit des Werkzeugs, desto _____ kann die Schnittgeschwindigkeit gewählt werden.",
+    "questionTr": "Kesme hızı seçimine ilişkin cümleleri tamamlayın: • Takım malzemesi ne kadar sert ve aşınmaya dayanıklıysa, kesme hızı o kadar _____ seçilebilir. • İş parçası malzemesi ne kadar sert ve sağlamsa, kesme hızı o kadar _____ seçilmelidir. • Soğutma-yağlama ne kadar iyiyse, kesme hızı o kadar _____ seçilebilir. • Takım ömrü ne kadar kısaysa, kesme hızı o kadar _____ seçilebilir.",
+    "answerDe": "größer · kleiner · größer · größer",
+    "answerTr": "daha yüksek · daha düşük · daha yüksek · daha yüksek",
+    "questionPronunciationTr": "Ergentsın Sii dii Settse übır dii Fahl dea Şnittgeşfindigkayt: • Ye ertır und fırşlaysfestır dea Ferktsoygferkstoff, desto _____ kann dii Şnittgeşfindigkayt gefehlt ferdın. • Ye ertır und festır dea Ferkstükferkstoff, desto _____ ist dii Şnittgeşfindigkayt tsu fehlın. • Ye bessır dii Kühlşmiirung, desto _____ kann dii Şnittgeşfindigkayt gefehlt ferdın. • Ye klaynır dii Ştandtsayt des Ferktsoygs, desto _____ kann dii Şnittgeşfindigkayt gefehlt ferdın.",
+    "answerPronunciationTr": "grösır · klaynır · grösır · grösır"
+  },
+  {
+    "topicId": "kuehlschmierstoffe-kss",
+    "questionDe": "Zeigen Sie vier Aufgaben von Kühlschmierstoffen (KSS) auf.",
+    "questionTr": "Soğutucu yağların (KSS) dört görevini söyleyin.",
+    "answerDe": "KSS transportieren die Wärme von der Wirkstelle. KSS vermindern die Reibung auf Span- und Freifläche. KSS reduzieren den Werkzeugverschleiß. KSS verbessern die Oberflächenqualität des Werkstücks.",
+    "answerTr": "KSS, ısıyı işlem noktasından uzaklaştırır. KSS, talaş ve boşluk yüzeyindeki sürtünmeyi azaltır. KSS, takım aşınmasını azaltır. KSS, iş parçasının yüzey kalitesini artırır.",
+    "questionPronunciationTr": "Tsaygın Sii fiir Aufgabın fon Kühlşmiirstoffın (KSS) auf.",
+    "answerPronunciationTr": "KSS transportiirın dii Ferme fon dea Firkstelle. KSS fermindern dii Raybung auf Şpan- und Frayflee. KSS redutsiirın dın Ferktsoygfırşlays. KSS ferbessern dii Oberfleenkfalitet des Ferkstüks."
+  },
+  {
+    "topicId": "kuehlschmierstoffe-kss",
+    "questionDe": "Ergänzen Sie die Tabelle durch die Bestandteile der beiden Kühlschmierstoffarten und deren Aufgaben.",
+    "questionTr": "İki KSS türünün bileşenlerini ve görevlerini tabloya yazın.",
+    "answerDe": "Nicht wassermischbar: Mineralöle und Zusätze – Mineralöle: Schmieren · Zusätze: Verbesserung der Schmierfähigkeit und des Korrosionsschutzes. Wassermischbar: Wasser und Konzentrate – Wasser: Kühlen · Konzentrate: Schmier- und Benetzungsfähigkeit erhöhen, Korrosion verhindern.",
+    "answerTr": "Suyla karışmayan: Mineral yağlar ve katkılar – Mineral yağlar: yağlamak · Katkılar: yağlama özelliğini ve korozyon korumasını artırmak. Suyla karışan: Su ve konsantreler – Su: soğutmak · Konsantreler: yağlama ve ıslatma özelliğini artırmak, korozyonu önlemek.",
+    "questionPronunciationTr": "Ergentsın Sii dii Tabelle durh dii Bestandtayle dea baydın Kühlşmiirstoffartın und derın Aufgabın.",
+    "answerPronunciationTr": "Niht fassermişbar: Mineralöle und Tsusettse – Mineralöle: Şmiirın · Tsusettse: Ferbesserung dea Şmiirfeigkayt und des Korrosionsşuttses. Fassermişbar: Fassır und Kontsentrate – Fassır: Kühlın · Kontsentrate: Şmiir- und Benettsungsfeigkayt eröhın, Korrosion ferindern."
+  },
+  {
+    "topicId": "kuehlschmierstoffe-kss",
+    "questionDe": "Wassermischbare KSS haben eine wesentlich größere _____ aber eine geringere _____ als nicht wassermischbare KSS.",
+    "questionTr": "Suyla karışan KSS’lerin _____ önemli ölçüde daha yüksek, ancak _____ ise suyla karışmayanlardan daha düşüktür.",
+    "answerDe": "Kühlwirkung · Schmierfähigkeit",
+    "answerTr": "Kühlwirkung (soğutma etkisi) · Schmierfähigkeit (yağlama özelliği)",
+    "questionPronunciationTr": "Fassermişbare KSS abın ayne fesentlih grösere _____ abır ayne geringere _____ als niht fassermişbare KSS.",
+    "answerPronunciationTr": "Kühlfirkung · Şmiirfeigkayt"
+  },
+  {
+    "topicId": "kuehlschmierstoffe-kss",
+    "questionDe": "Beschreiben Sie zwei Aspekte beim Umgang mit Kühlschmiermitteln.",
+    "questionTr": "Soğutucu yağlarla çalışırken dikkat edilecek iki noktayı açıklayın.",
+    "answerDe": "Kühlschmierstoffe müssen in regelmäßigen Abständen auf ihre Zusammensetzung kontrolliert werden. Gewissenhafte Hautpflege und -reinigung vor und nach Kühlschmiermittelkontakt.",
+    "answerTr": "KSS bileşimi düzenli aralıklarla kontrol edilmelidir. KSS ile temas öncesi ve sonrasında özenli cilt bakımı ve temizliği yapılmalıdır.",
+    "questionPronunciationTr": "Beşraybın Sii tsfay Aspekte baym Umgang mit Kühlşmiirmitteln.",
+    "answerPronunciationTr": "Kühlşmiirstoffe müssın in regelmesigın Abstendın auf ihre Tsusammensettsung kontrolliirt ferdın. Gefissenafte Autpflege und -raynigung for und nah Kühlşmiirmittelkontakt."
+  },
+  {
+    "topicId": "drehen-uebersicht",
+    "questionDe": "Benennen Sie die Drehverfahren und tragen Sie die Bezeichnungen für die Bewegungen 1 und 2 ein. Geben Sie auch die Form der bearbeiteten Fläche an.",
+    "questionTr": "Tornalama yöntemlerini adlandırın ve 1, 2 numaralı hareketleri yazın. İşlenen yüzeyin biçimini de belirtin.",
+    "answerDe": "Längsrunddrehen: Bewegung 1 = Vorschubbewegung, Bewegung 2 = Zustellbewegung, Arbeitsfläche zylindrisch. Querplandrehen: Bewegung 1 = Zustellbewegung, Bewegung 2 = Vorschubbewegung, Arbeitsfläche eben.",
+    "answerTr": "Boyuna torna: 1 = ilerleme, 2 = yan dalma, işlenen yüzey silindirik. Alın torna: 1 = yan dalma, 2 = ilerleme, işlenen yüzey düz/eben.",
+    "questionPronunciationTr": "Benennın Sii dii Drehferfahrın und tragın Sii dii Betsayhnungın für dii Befegungın 1 und 2 ayn. Gebın Sii auh dii Form dea bearbaytetın Flee an.",
+    "answerPronunciationTr": "Lengsrunddrehın: Befegung 1 = Forşubbefegung, Befegung 2 = Tsustellbefegung, Arbaytsflee tsylindriş. Kferplandrehın: Befegung 1 = Tsustellbefegung, Befegung 2 = Forşubbefegung, Arbaytsflee ebın."
+  },
+  {
+    "topicId": "drehen-uebersicht",
+    "questionDe": "Was ist das Ziel des Schruppens?",
+    "questionTr": "Kaba işlemenin (Schruppen) amacı nedir?",
+    "answerDe": "Ziel des Schruppens ist es, in möglichst kurzer Zeit ein möglichst großes Spanvolumen abzutragen. Maßhaltig- und Formgenauigkeit sowie die Oberflächenqualität haben eine untergeordnete Bedeutung.",
+    "answerTr": "Kaba işlemenin amacı, mümkün olan en kısa sürede mümkün olan en fazla talaş hacmini kaldırmaktır. Ölçü-biçim hassasiyeti ve yüzey kalitesi ikincil önemdedir.",
+    "questionPronunciationTr": "Fas ist das Tsiil des Şruppens?",
+    "answerPronunciationTr": "Tsiil des Şruppens ist es, in möglihst kurtsır Tsayt ayn möglihst groses Şpanfolumın abtsutragın. Masaltig- und Formgenauigkayt sofii dii Oberfleenkfalitet abın ayne untergeordnete Bedoytung."
+  },
+  {
+    "topicId": "drehen-uebersicht",
+    "questionDe": "Wie sind Schnitttiefe und Vorschub beim Schruppen zu wählen?",
+    "questionTr": "Kabada kesme derinliği ve ilerleme nasıl seçilir?",
+    "answerDe": "Es wird mit großer Schnitttiefe und großem Vorschub gearbeitet.",
+    "answerTr": "Büyük kesme derinliği ve büyük ilerleme ile çalışılır.",
+    "questionPronunciationTr": "Fii sind Şnitttiife und Forşub baym Şruppın tsu fehlın?",
+    "answerPronunciationTr": "Es fird mit grosır Şnitttiife und grosem Forşub gearbaytet."
+  },
+  {
+    "topicId": "drehen-uebersicht",
+    "questionDe": "Welche Ziele werden beim Schlichten angestrebt?",
+    "questionTr": "İnce işleme (Schlichten) ile hangi hedefler amaçlanır?",
+    "answerDe": "Beim Schlichten werden eine hohe Maß- und Formgenauigkeit sowie eine hohe Oberflächenqualität angestrebt.",
+    "answerTr": "İnce işleme ile yüksek ölçü ve biçim hassasiyeti ile yüksek yüzey kalitesi hedeflenir.",
+    "questionPronunciationTr": "Fele Tsiile ferdın baym Şlihtın angestrebt?",
+    "answerPronunciationTr": "Baym Şlihtın ferdın ayne oe Mas- und Formgenauigkayt sofii ayne oe Oberfleenkfalitet angestrebt."
+  },
+  {
+    "topicId": "drehen-uebersicht",
+    "questionDe": "Mit welchen Maßnahmen erreichen Sie die Ziele des Schlichtens beim Drehen?",
+    "questionTr": "Tornalamada ince işleme hedeflerine hangi önlemlerle ulaşılır?",
+    "answerDe": "Mit geringer Schnitttiefe und kleinem Vorschub werden bei hoher Schnittgeschwindigkeit und guter Kühlschmierung die Ziele des Schlichtdrehens erreicht.",
+    "answerTr": "Düşük kesme derinliği ve küçük ilerlemeyle, yüksek kesme hızında ve iyi soğutma-yağlama ile ince tornalama hedeflerine ulaşılır.",
+    "questionPronunciationTr": "Mit felhın Masnahmın errayhın Sii dii Tsiile des Şlihtens baym Drehın?",
+    "answerPronunciationTr": "Mit geringır Şnitttiife und klaynem Forşub ferdın bay ohır Şnittgeşfindigkayt und gutır Kühlşmiirung dii Tsiile des Şlihtdreens errayht."
+  },
+  {
+    "topicId": "drehen-uebersicht",
+    "questionDe": "Welche Anforderung ist an die Schneidenform eines Gewindedrehmeißels zu stellen?",
+    "questionTr": "Vida torna kaleminin kesici ağız biçimi için hangi şart gereklidir?",
+    "answerDe": "Die Schneidenform muss dem jeweiligen Gewindeprofil entsprechen.",
+    "answerTr": "Kesici ağız biçimi, ilgili vida profiline uygun olmalıdır.",
+    "questionPronunciationTr": "Fele Anforderung ist an dii Şnaydenform aynes Gefindedrehmaysels tsu ştellın?",
+    "answerPronunciationTr": "dii Şnaydenform muss dem yefayligın Gefindeprofil entsprehın."
+  },
+  {
+    "topicId": "drehmeissel-und-schneidengeometrie",
+    "questionDe": "Tragen Sie für den Drehmeißel zum Querplandrehen die fehlenden Bezeichnungen ein.",
+    "questionTr": "Alın torna kalemi için eksik isimleri yazın.",
+    "answerDe": "1 Spanfläche · 2 Hauptschneide · 3 Nebenschneide · 4 Hauptfreifläche · 5 Nebenfreifläche · 6 Schneidenecke · 7 Klemmhalter",
+    "answerTr": "1 Talaş yüzeyi · 2 Ana kesici · 3 İkincil kesici · 4 Ana boşluk yüzeyi · 5 İkincil boşluk yüzeyi · 6 Kesici köşesi · 7 Kalem tutucu",
+    "questionPronunciationTr": "Tragın Sii für dın Drehmaysel tsum Kferplandrehın dii fehlendın Betsayhnungın ayn.",
+    "answerPronunciationTr": "1 Şpanflee · 2 Auptşnayde · 3 Nebınşnayde · 4 Auptfrayflee · 5 Nebenfrayflee · 6 Şnaydeneke · 7 Klemmaltır"
+  },
+  {
+    "topicId": "drehmeissel-und-schneidengeometrie",
+    "questionDe": "Ergänzen Sie die Tabelle zu positiver/negativer Schneidengeometrie mit Begriffen: gut – weniger gut – positiv – negativ – schneidend – schabend – stabil – weniger stabil – unterbrochen – ununterbrochen – Schlichten – Schruppen.",
+    "questionTr": "Pozitif/negatif kesici geometri tablosunu şu kavramlarla doldurun: iyi – daha az iyi – pozitif – negatif – kesici – sıyırıcı – sağlam – daha az sağlam – kesintili – kesintisiz – ince işleme – kaba işleme.",
+    "answerDe": "Spanwinkel: positiv | negativ Wirkung: schneidend | schabend Schneide: weniger stabil | stabil Oberfläche: gut | weniger gut Verfahren: Schlichten | Schruppen Schnitt: ununterbrochen | unterbrochen",
+    "answerTr": "Talaş açısı: pozitif | negatif Etki: kesici | sıyırıcı Kesici: daha az sağlam | sağlam Yüzey: iyi | daha az iyi Yöntem: ince işleme | kaba işleme Kesme: kesintisiz | kesintili",
+    "questionPronunciationTr": "Ergentsın Sii dii Tabelle tsu positifır/negatifır Şnaydengeometrii mit Begriffın: gut – fenigır gut – positif – negatif – şnaydend – şabend – ştabil – fenigır ştabil – unterbrohın – ununterbrohın – Şlihtın – Şruppın.",
+    "answerPronunciationTr": "Şpanfinkel: positif | negatif Firkung: şnaydend | şabend Şnayde: fenigır ştabil | ştabil Oberflee: gut | fenigır gut Ferfahrın: Şlihtın | Şruppın Şnitt: ununterbrohın | unterbrohın"
+  },
+  {
+    "topicId": "drehmeissel-und-schneidengeometrie",
+    "questionDe": "Wie wirkt sich der Eckenwinkel ε auf die Schneidenstabilität aus?",
+    "questionTr": "Köşe açısı ε kesici dayanıklılığını nasıl etkiler?",
+    "answerDe": "Je größer der Eckenwinkel ε, desto stabiler ist die Schneide.",
+    "answerTr": "Köşe açısı ε ne kadar büyükse, kesici o kadar sağlamdır.",
+    "questionPronunciationTr": "Fii firkt sih dea Ekenfinkel ε auf dii Şnaydenstabilitet aus?",
+    "answerPronunciationTr": "Ye grösır dea Ekenfinkel ε, desto ştabilır ist dii Şnayde."
+  },
+  {
+    "topicId": "drehmeissel-und-schneidengeometrie",
+    "questionDe": "Welchen Einfluss hat der Einstellwinkel κ auf die Spanungsbreite und -dicke?",
+    "questionTr": "Yaklaşma açısı κ talaş genişlik ve kalınlığını nasıl etkiler?",
+    "answerDe": "Je kleiner der Einstellwinkel κ, desto geringer ist die Spanungsdicke und desto größer ist die Spanungsbreite. Die im Eingriff befindliche Schneidenlänge nimmt zu.",
+    "answerTr": "Yaklaşma açısı κ ne kadar küçükse, talaş kalınlığı o kadar düşük, talaş genişliği ise o kadar büyük olur. Temas hâlindeki kesici uzunluğu artar.",
+    "questionPronunciationTr": "Felhın Aynfluss at dea Aynstellfinkel κ auf dii Şpanungsbrayte und -dike?",
+    "answerPronunciationTr": "Ye klaynır dea Aynstellfinkel κ, desto geringır ist dii Şpanungsdike und desto grösır ist dii Şpanungsbrayte. dii im Ayngriff befindlie Şnaydenlenge nimmt tsu."
+  },
+  {
+    "topicId": "drehmaschine-bauteile-und-elemente",
+    "questionDe": "Ergänzen Sie die Tabelle mit den Bezeichnungen der Bauteile und Elemente an der dargestellten Drehmaschine.",
+    "questionTr": "Resimdeki torna tezgahının yapı parçalarının ve elemanlarının isimlerini tabloya yazın.",
+    "answerDe": "1 Spindelstock mit Hauptgetriebe und Arbeitsspindel 2 Vorschubgetriebe 3 Werkzeugschlitten 4 Schlossplatte 5 Leitspindel 6 Zugspindel 7 Führung 8 Maschinenbett 9 Reitstock 10 Positionsanzeige 11 Gestell",
+    "answerTr": "1 Ana şanzıman ve çalışma mili ile fener mili kafası 2 İlerleme şanzımanı 3 Takım arabası 4 Kapak plakası (şaryo) 5 Kılavuz mil 6 Çekme mili 7 Kızak (kılavuz) 8 Tezgah yatağı 9 Gezer punta 10 Konum göstergesi (DRO) 11 Gövde",
+    "questionPronunciationTr": "Ergentsın Sii dii Tabelle mit dın Betsayhnungın dea Bautayle und Elemente an dea dargestelltın Drehmaşine.",
+    "answerPronunciationTr": "1 Şpindelstok mit Auptgetriibe und Arbaytsspindel 2 Forşubgetriibe 3 Ferktsoygşlittın 4 Şlossplatte 5 Laytspindel 6 Tsugspindel 7 Führung 8 Maşinenbett 9 Raytstok 10 Positionsantsayge 11 Gestell"
+  },
+  {
+    "topicId": "drehen-fertigungsschritte",
+    "questionDe": "Zu welcher Werkstoffgruppe gehört der Werkstoff 10S20 und was ist das Besondere dieser Gruppe?",
+    "questionTr": "10S20 malzemesi hangi gruba aittir ve bu grubun özelliği nedir?",
+    "answerDe": "Es ist ein Automatenstahl, der durch den Schwefelgehalt warmbrüchig wird und kurze Späne bildet.",
+    "answerTr": "Otomat çeliğidir; kükürt içeriği nedeniyle sıcakta kırılgan olur ve kısa talaş oluşturur.",
+    "questionPronunciationTr": "Tsu felhır Ferkstoffgruppe geört dea Ferkstoff 10S20 und fas ist das Besondere diisır Gruppe?",
+    "answerPronunciationTr": "Es ist ayn Automatenstahl, dea durh dın Şfefelgealt farmbrüig fird und kurtse Şpene bildet."
+  },
+  {
+    "topicId": "drehen-fertigungsschritte",
+    "questionDe": "Legen Sie in der folgenden Tabelle die Fertigungsschritte zur Herstellung der Drehteile fest. Als Werkzeuge stehen Drehmeißel mit Schneidplatten aus Hartmetall zur Verfügung.",
+    "questionTr": "Aşağıdaki tabloya torna parçalarının üretim adımlarını yazın. Takım olarak karbür uçlu torna kalemleri mevcuttur.",
+    "answerDe": "1 Stange im Dreibackenfutter spannen – Vierkantschlüssel 2 Querplandrehen der ersten Stirnfläche – Drehmeißel mit Hartmetallplatte ε=90°, κ=85°, KSS · ap=2, f=0,2, vc=300, n=2300 3 Längsrunddrehen Ø40 – Drehmeißel ε=80°, κ=95°, KSS · ap=1, f=0,2, vc=300, n=2300 4 Längsrunddrehen Ø32 mit 0,2 mm Aufmaß – Drehmeißel ε=80°, κ=95°, KSS · ap=4, f=0,2, vc=300, n=2300 5 Längsrunddrehen Ø25 mit 0,2 mm Aufmaß – Drehmeißel ε=80°, κ=95°, KSS · ap=3,5, f=0,2, vc=300, n=4000",
+    "answerTr": "1 Çubuğu üç çeneli aynaya bağla – kare anahtar 2 İlk alın yüzeyin alın tornalanması – karbür uçlu kalem ε=90°, κ=85°, KSS · ap=2, f=0,2, vc=300, n=2300 3 Ø40 boyuna tornalama – kalem ε=80°, κ=95°, KSS · ap=1, f=0,2, vc=300, n=2300 4 Ø32 boyuna tornalama, 0,2 mm pay ile – kalem ε=80°, κ=95°, KSS · ap=4, f=0,2, vc=300, n=2300 5 Ø25 boyuna tornalama, 0,2 mm pay ile – kalem ε=80°, κ=95°, KSS · ap=3,5, f=0,2, vc=300, n=4000",
+    "questionPronunciationTr": "Legın Sii in dea folgendın Tabelle dii Fertigungsşritte tsur Erstellung dea Drehtayle fest. Als Ferktsoyge ştehın Drehmaysel mit Şnaydplattın aus Artmetall tsur Ferfügung.",
+    "answerPronunciationTr": "1 Ştange im Draybakenfuttır şpannın – Fiirkantşlüssel 2 Kferplandrehın dea erstın Ştirnflee – Drehmaysel mit Artmetallplatte ε=90°, κ=85°, KSS · ap=2, f=0,2, fk=300, n=2300 3 Lengsrunddrehın Ø40 – Drehmaysel ε=80°, κ=95°, KSS · ap=1, f=0,2, fk=300, n=2300 4 Lengsrunddrehın Ø32 mit 0,2 mm Aufmas – Drehmaysel ε=80°, κ=95°, KSS · ap=4, f=0,2, fk=300, n=2300 5 Lengsrunddrehın Ø25 mit 0,2 mm Aufmas – Drehmaysel ε=80°, κ=95°, KSS · ap=3,5, f=0,2, fk=300, n=4000"
+  },
+  {
+    "topicId": "fraesen-fraesverfahren-und-fraeser",
+    "questionDe": "Tragen Sie oberhalb der Abbildungen die Bezeichnungen der Fräsverfahren ein.",
+    "questionTr": "Resimlerin üzerine frezeleme yöntemlerinin isimlerini yazın.",
+    "answerDe": "Stirnfräsen · Umfangsfräsen · Stirn-Umfangsfräsen · Nutfräsen",
+    "answerTr": "Alın frezeleme · Çevre frezeleme · Alın-çevre frezeleme · Kanal frezeleme",
+    "questionPronunciationTr": "Tragın Sii oberalb dea Abbildungın dii Betsayhnungın dea Fresferfahrın ayn.",
+    "answerPronunciationTr": "Ştirnfresın · Umfangsfresın · Ştirn-Umfangsfresın · Nutfresın"
+  },
+  {
+    "topicId": "fraesen-fraesverfahren-und-fraeser",
+    "questionDe": "Benennen Sie unterhalb der Abbildungen die dargestellten Fräser.",
+    "questionTr": "Resimlerin altına gösterilen frezelerin isimlerini yazın.",
+    "answerDe": "Messerkopf · Walzenfräser · Walzenstirnfräser · Schaftfräser",
+    "answerTr": "Freze kafası · Silindir freze · Silindir-alın freze · Parmak freze",
+    "questionPronunciationTr": "Benennın Sii unteralb dea Abbildungın dii dargestelltın Fresır.",
+    "answerPronunciationTr": "Messerkopf · Faltsenfresır · Faltsenstirnfresır · Şaftfresır"
+  },
+  {
+    "topicId": "fraesen-fraesverfahren-und-fraeser",
+    "questionDe": "Beim Stirn- und Umfangsfräsen entstehen ebene Oberflächen. Welches Verfahren ist zu bevorzugen?",
+    "questionTr": "Alın ve çevre frezeleme düz yüzey verir. Hangi yöntem tercih edilmelidir?",
+    "answerDe": "Das Stirnfräsen ist zu bevorzugen, weil der Span mit nahezu gleichbleibendem Querschnitt rechteckig ist. Dadurch ergeben sich gleichmäßige Zerspanungsbedingungen, die Zerspanungsleistung wird erhöht und die Fertigungszeiten werden verkürzt.",
+    "answerTr": "Alın frezeleme tercih edilmelidir, çünkü talaş neredeyse sabit kesitle dikdörtgen olur. Böylece düzenli talaşlı işleme koşulları sağlanır, talaş kaldırma gücü artar ve üretim süresi kısalır.",
+    "questionPronunciationTr": "Baym Ştirn- und Umfangsfresın entstehın ebene Oberflehın. Feles Ferfahrın ist tsu befortsugın?",
+    "answerPronunciationTr": "das Ştirnfresın ist tsu befortsugın, fayl dea Şpan mit naetsu glayhblaybendem Kfırşnitt rehtekig ist. Dadurh ergebın sih glayhmesige Tserspanungsbedingungın, dii Tserspanungslaystung fird eröht und dii Fertigungstsaytın ferdın ferkürtst."
+  },
+  {
+    "topicId": "fraesen-fraesverfahren-und-fraeser",
+    "questionDe": "Bei welchen Fräsarbeiten entscheiden Sie sich für das Stirn-Umfangsfräsen?",
+    "questionTr": "Hangi frezeleme işlerinde alın-çevre frezelemeyi tercih edersiniz?",
+    "answerDe": "Beim Stirn-Umfangsfräsen erzeugen die Schneiden an der Stirnseite und am Umfang gleichzeitig die Werkstückoberfläche. Das Verfahren kommt beim Fräsen von Werkstückabsätzen zum Einsatz.",
+    "answerTr": "Alın-çevre frezelemede, alın ve çevredeki kesiciler iş parçası yüzeyini aynı anda oluşturur. Bu yöntem iş parçası kademelerinin frezelenmesinde kullanılır.",
+    "questionPronunciationTr": "Bay felhın Fresarbaytın entşaydın Sii sih für das Ştirn-Umfangsfresın?",
+    "answerPronunciationTr": "Baym Ştirn-Umfangsfresın ertsoygın dii Şnaydın an dea Ştirnsayte und am Umfang glayhtsaytig dii Ferkstükoberflee. das Ferfahrın kommt baym freezın fon Ferkstükabsettsın tsum Aynsatts."
+  },
+  {
+    "topicId": "fraesen-fraesverfahren-und-fraeser",
+    "questionDe": "Welche Anforderungen sind an einen Schaftfräser zu stellen, mit dem die dargestellte Nut gefräst werden soll?",
+    "questionTr": "Gösterilen kanalı frezelemek için kullanılacak parmak frezenin gereklilikleri nelerdir?",
+    "answerDe": "Der Schaftfräser muss an der Stirnseite eine Schneide besitzen, die über den gesamten Fräserradius schneidet, damit der Fräser senkrecht in die Nut eintauchen kann.",
+    "answerTr": "Parmak freze, alın tarafında tüm freze yarıçapı boyunca kesen bir kesiciye sahip olmalıdır; böylece kanala dik olarak dalabilir.",
+    "questionPronunciationTr": "Fele Anforderungın sind an aynın Şaftfresır tsu ştellın, mit dem dii dargestellte Nut gefreşt ferdın soll?",
+    "answerPronunciationTr": "dea Şaftfresır muss an dea Ştirnsayte ayne Şnayde besittsın, dii übır dın gesamtın Freserradius şnaydet, damit dea Fresır senkreht in dii Nut ayntauhın kann."
+  },
+  {
+    "topicId": "fraesmaschine-bauteile-und-berechnungen",
+    "questionDe": "Tragen Sie die Benennungen für die Elemente der dargestellten Fräsmaschine in die Tabelle ein.",
+    "questionTr": "Resimdeki freze tezgahının elemanlarının isimlerini tabloya yazın.",
+    "answerDe": "1 Vertikaler Fräskopf · 2 Führungsbahn · 3 Frästisch · 4 Maschinenständer · 5 Handräder · 6 Spänewanne · 7 Positionsanzeige",
+    "answerTr": "1 Dik freze kafası · 2 Kızak yolu · 3 Freze tablası · 4 Makine sütunu · 5 El çarkları · 6 Talaş haznesi · 7 Konum göstergesi",
+    "questionPronunciationTr": "Tragın Sii dii Benennungın für dii Elemente dea dargestelltın Fresmaşine in dii Tabelle ayn.",
+    "answerPronunciationTr": "1 Fertikalır Freskopf · 2 Führungsbahn · 3 Freştiş · 4 Maşinenstendır · 5 Andredır · 6 Şpenefanne · 7 Positionsantsayge"
+  },
+  {
+    "topicId": "fraesmaschine-bauteile-und-berechnungen",
+    "questionDe": "Legen Sie für die Fertigungsplanung die technologischen Daten vc und fz für Ra 3,2 und Ra 0,8 fest.",
+    "questionTr": "Üretim planlaması için Ra 3,2 ve Ra 0,8 yüzey kalitesine ait vc ve fz teknolojik verilerini belirleyin.",
+    "answerDe": "Für Ra 3,2: vc = 350 m/min, fz = 0,1 mm. Für Ra 0,8: vc = 450 m/min, fz = 0,05 mm.",
+    "answerTr": "Ra 3,2 için: vc = 350 m/dak, fz = 0,1 mm. Ra 0,8 için: vc = 450 m/dak, fz = 0,05 mm.",
+    "questionPronunciationTr": "Legın Sii für dii Fertigungsplanung dii tehnologişın Datın fk und fts für Ra 3,2 und Ra 0,8 fest.",
+    "answerPronunciationTr": "Für Ra 3,2: fk = 350 m/min, fts = 0,1 mm. Für Ra 0,8: fk = 450 m/min, fts = 0,05 mm."
+  },
+  {
+    "topicId": "fraesmaschine-bauteile-und-berechnungen",
+    "questionDe": "Bestimmen Sie die Umdrehungsfrequenzen und die Vorschubgeschwindigkeiten für die beiden Messerköpfe.",
+    "questionTr": "İki freze kafası için devir sayılarını ve ilerleme hızlarını hesaplayın.",
+    "answerDe": "n = vc / (d·π) · 1000 mm/m Messerkopf Ø80, vc=350: n1 ≈ 1400 1/min Messerkopf Ø60, vc=450: n2 ≈ 1800 1/min (im Buch n2 ≈ 2400) vf = fz · z · n vf1 = 0,1 · 6 · 1400 = 840 mm/min vf2 = 360 mm/min (z=4 bei Ø60)",
+    "answerTr": "n = vc / (d·π) · 1000 mm/m Ø80 freze, vc=350: n1 ≈ 1400 1/dak Ø60 freze, vc=450: n2 ≈ 1800 1/dak (kitapta ≈ 2400) vf = fz · z · n vf1 = 0,1 · 6 · 1400 = 840 mm/dak vf2 = 360 mm/dak (Ø60’da z=4)",
+    "questionPronunciationTr": "Bestimmın Sii dii Umdreungsfrekfentsın und dii Forşubgeşfindigkaytın für dii baydın Messerköpfe.",
+    "answerPronunciationTr": "n = fk / (d·π) · 1000 mm/m Messerkopf Ø80, fk=350: n1 ≈ 1400 1/min Messerkopf Ø60, fk=450: n2 ≈ 1800 1/min (im Buh n2 ≈ 2400) ff = fts · ts · n ff1 = 0,1 · 6 · 1400 = 840 mm/min ff2 = 360 mm/min (ts=4 bay Ø60)"
+  },
+  {
+    "topicId": "fraesen-arbeitsplan",
+    "questionDe": "Legen Sie die Arbeitsschritte für die Fräsarbeiten an der feststehenden Spannbacke fest.",
+    "questionTr": "Sabit bağlama çenesinin frezeleme iş adımlarını belirleyin.",
+    "answerDe": "1 Rohling im Schraubstock spannen 2 Stirnfräsen der ersten Fläche 70x40 mm – Messerkopf Ø80, P20, κ=75°, KSS · ap=2,5; fz=0,1; vc=350; n=1400; vf=840 3 Stirnfräsen der gegenüberliegenden Fläche 70x40 mm auf 40 mm Dicke – Messerkopf Ø80, KSS – wie Nr. 2 4 Stirnfräsen der Aufspannfläche der Spannbacke 70x40 mm – Messerkopf Ø80, KSS – wie Nr. 2 und 3 5 Stirnfräsen der gegenüberliegenden Fläche auf 35,4 mm Dicke – Messerkopf Ø80, KSS – wie 2, 3, 4 6 Stirn-Umfangsfräsen der Fläche auf 35 mm Dicke (Ra 0,8) – Messerkopf Ø60, P20, κ=90°, KSS · ap=0,4; fz=0,05; vc=450; n=2400; vf=480 7 Absatz 6x5 mm Schruppen und Feinschlichten (Ra 0,8) – Messerkopf Ø60, KSS – wie Nr. 6 8 Stirnfräsen der Fläche 35x40 mm und Stirn-Umfangsfräsen des Absatzes – Messerkopf Ø60, KSS · ap=2 und wie Nr. 6 und 7 9 Fräsen der gegenüberliegenden Fläche und des Absatzes – Messerkopf Ø60, KSS – wie Nr. 8",
+    "answerTr": "1 Ham parçayı mengeneye bağla 2 İlk 70x40 mm yüzeyi alın freze – Ø80 freze, P20, κ=75°, KSS · ap=2,5; fz=0,1; vc=350; n=1400; vf=840 3 Karşı 70x40 mm yüzeyi 40 mm kalınlığa alın freze – Ø80 freze, KSS – Nr. 2 gibi 4 Çenenin bağlama yüzeyi 70x40 mm’yi alın freze – Ø80 freze, KSS – Nr. 2 ve 3 gibi 5 Karşı yüzeyi 35,4 mm kalınlığa alın freze – Ø80 freze, KSS – Nr. 2, 3, 4 gibi 6 Yüzeyi 35 mm kalınlığa alın-çevre freze (Ra 0,8) – Ø60 freze, P20, κ=90°, KSS · ap=0,4; fz=0,05; vc=450; n=2400; vf=480 7 6x5 mm kademeyi kaba ve ince frezele (Ra 0,8) – Ø60 freze, KSS – Nr. 6 gibi 8 35x40 mm yüzey alın freze ve kademeyi alın-çevre freze – Ø60 freze, KSS · ap=2 ve Nr. 6 ve 7 gibi 9 Karşı yüzey ve kademeyi freze – Ø60 freze, KSS – Nr. 8 gibi",
+    "questionPronunciationTr": "Legın Sii dii Arbaytsşritte für dii Fresarbaytın an dea feststeendın Şpannbake fest.",
+    "answerPronunciationTr": "1 Rohling im Şraubstok şpannın 2 Ştirnfresın dea erstın Flee 70x40 mm – Messerkopf Ø80, P20, κ=75°, KSS · ap=2,5; fts=0,1; fk=350; n=1400; ff=840 3 Ştirnfresın dea gegınüberliigendın Flee 70x40 mm auf 40 mm Dike – Messerkopf Ø80, KSS – fii Nr. 2 4 Ştirnfresın dea Aufspannflee dea Şpannbake 70x40 mm – Messerkopf Ø80, KSS – fii Nr. 2 und 3 5 Ştirnfresın dea gegınüberliigendın Flee auf 35,4 mm Dike – Messerkopf Ø80, KSS – fii 2, 3, 4 6 Ştirn-Umfangsfresın dea Flee auf 35 mm Dike (Ra 0,8) – Messerkopf Ø60, P20, κ=90°, KSS · ap=0,4; fts=0,05; fk=450; n=2400; ff=480 7 Absatts 6x5 mm Şruppın und Faynşlihtın (Ra 0,8) – Messerkopf Ø60, KSS – fii Nr. 6 8 Ştirnfresın dea Flee 35x40 mm und Ştirn-Umfangsfresın des Absattses – Messerkopf Ø60, KSS · ap=2 und fii Nr. 6 und 7 9 freezın dea gegınüberliigendın Flee und des Absattses – Messerkopf Ø60, KSS – fii Nr. 8"
+  },
+  {
+    "topicId": "messschraube-buegelmessschraube",
+    "questionDe": "Zum Überprüfen der Maße mit ISO-Toleranzen können Messschrauben genutzt werden. Benennen Sie die Elemente der Bügelmessschraube.",
+    "questionTr": "ISO toleranslı ölçülerin kontrolü için mikrometre kullanılabilir. Kelepçeli mikrometrenin elemanlarını adlandırın.",
+    "answerDe": "Messamboss · Messspindel · Skalenhülse · Messspindelfeststelleinrichtung · Ratsche · Schnellantrieb · Skalentrommel · Bügel mit Isolierung · Bezugslinie",
+    "answerTr": "Ölçüm örsü · Ölçüm mili · Skala kovanı · Ölçüm mili kilidi · Cırcır · Hızlı sürücü · Skala tamburu · İzoleli kelepçe · Referans çizgisi",
+    "questionPronunciationTr": "Tsum Überprüfın dea Mase mit ISO-Tolerantsın könnın Messşraubın genuttst ferdın. Benennın Sii dii Elemente dea Bügelmessşraube.",
+    "answerPronunciationTr": "Messamboss · Messspindel · Skalenülse · Messspindelfeststellaynrihtung · Ratşe · Şnellantriib · Skalentrommel · Bügel mit Isoliirung · Betsugslinii"
+  },
+  {
+    "topicId": "messschraube-buegelmessschraube",
+    "questionDe": "Tragen Sie die abzulesenden Messwerte bei einer Messschraube mit 0,5 mm Steigung ein.",
+    "questionTr": "0,5 mm adımlı bir mikrometre için okunması gereken ölçüm değerlerini yazın.",
+    "answerDe": "16,30 mm · 42,23 mm · 75,50 mm · 37,60 mm · 61,89 mm · 55,55 mm",
+    "answerTr": "16,30 mm · 42,23 mm · 75,50 mm · 37,60 mm · 61,89 mm · 55,55 mm",
+    "questionPronunciationTr": "Tragın Sii dii abtsulesendın Messferte bay aynır Messşraube mit 0,5 mm Ştaygung ayn.",
+    "answerPronunciationTr": "16,30 mm · 42,23 mm · 75,50 mm · 37,60 mm · 61,89 mm · 55,55 mm"
+  },
+  {
+    "topicId": "grenzlehren",
+    "questionDe": "Mit Grenzlehren lassen sich Maße mit ISO-Toleranzen prüfen. Für das Prüfen von Wellen werden _____ und für Bohrungen _____ verwendet.",
+    "questionTr": "Sınır mastarları ile ISO toleranslı ölçüler kontrol edilebilir. Miller için _____ ve delikler için _____ kullanılır.",
+    "answerDe": "Grenzrachenlehren · Grenzlehrdorne",
+    "answerTr": "Grenzrachenlehren (kontrol çatalları) · Grenzlehrdorne (tampon mastarlar)",
+    "questionPronunciationTr": "Mit Grentslehrın lassın sih Mase mit ISO-Tolerantsın prüfın. Für das Prüfın fon Fellın ferdın _____ und für Bohrungın _____ ferfendet.",
+    "answerPronunciationTr": "Grentsraenlehrın · Grentslehrdorne"
+  },
+  {
+    "topicId": "grenzlehren",
+    "questionDe": "Beschriften Sie die Elemente der Grenzrachenlehre mit: unteres Grenzabmaß, Gutseite, oberes Grenzabmaß, toleriertes Maß, Ausschussseite.",
+    "questionTr": "Kontrol çatalının elemanlarını şu kavramlarla etiketleyin: alt sınır sapma, geçer tarafı, üst sınır sapma, toleranslı ölçü, geçmez tarafı.",
+    "answerDe": "Gutseite · Ausschussseite · oberes Grenzabmaß · toleriertes Maß · unteres Grenzabmaß",
+    "answerTr": "Geçer tarafı · Geçmez tarafı · Üst sınır sapma · Toleranslı ölçü · Alt sınır sapma",
+    "questionPronunciationTr": "Beşriftın Sii dii Elemente dea Grentsraenlehre mit: unteres Grentsabmas, Gutsayte, oberes Grentsabmas, toleriirtes Mas, Ausşusssayte.",
+    "answerPronunciationTr": "Gutsayte · Ausşusssayte · oberes Grentsabmas · toleriirtes Mas · unteres Grentsabmas"
+  },
+  {
+    "topicId": "grenzlehren",
+    "questionDe": "Nennen Sie drei Merkmale, die die Ausschussseite der Grenzrachenlehre kennzeichnen.",
+    "questionTr": "Kontrol çatalının geçmez tarafının üç özelliğini söyleyin.",
+    "answerDe": "rote Markierung · unteres Grenzabmaß · angefaste Prüfflächen",
+    "answerTr": "Kırmızı işaret · alt sınır sapma · pahlanmış kontrol yüzeyleri",
+    "questionPronunciationTr": "Nennın Sii dray Merkmale, dii dii Ausşusssayte dea Grentsraenlehre kenntsayhnın.",
+    "answerPronunciationTr": "rote Markiirung · unteres Grentsabmas · angefaste Prüfflehın"
+  },
+  {
+    "topicId": "grenzlehren",
+    "questionDe": "Beschriften Sie die Gut- und Ausschussseite des Grenzlehrdorns.",
+    "questionTr": "Tampon mastarın geçer ve geçmez taraflarını etiketleyin.",
+    "answerDe": "Gutseite · Ausschussseite",
+    "answerTr": "Geçer tarafı · Geçmez tarafı",
+    "questionPronunciationTr": "Beşriftın Sii dii Gut- und Ausşusssayte des Grentslehrdorns.",
+    "answerPronunciationTr": "Gutsayte · Ausşusssayte"
+  },
+  {
+    "topicId": "grenzlehren",
+    "questionDe": "Nennen Sie drei Kennzeichen, die auf die Gutseite des Grenzlehrdorns hinweisen.",
+    "questionTr": "Tampon mastarın geçer tarafına işaret eden üç özelliği söyleyin.",
+    "answerDe": "unteres Grenzabmaß · langer Prüfzylinder · keine rote Markierung",
+    "answerTr": "Alt sınır sapma · uzun kontrol silindiri · kırmızı işaret yok",
+    "questionPronunciationTr": "Nennın Sii dray Kenntsayhın, dii auf dii Gutsayte des Grentslehrdorns infaysın.",
+    "answerPronunciationTr": "unteres Grentsabmas · langır Prüftsylindır · kayne rote Markiirung"
+  },
+  {
+    "topicId": "grenzlehren",
+    "questionDe": "Das Lehren mit Grenzlehren ist gegenüber dem Messen vorteilhaft, wenn Werkstücke mit Normmaßen in _____ Stückzahlen bei _____ Toleranzen schnell und _____ überprüft werden sollen und die Istwerte _____ benötigt werden.",
+    "questionTr": "Sınır mastarıyla mastarlama, ölçmeye göre şu durumlarda avantajlıdır: standart ölçülü iş parçaları _____ adetlerde, _____ toleranslarda hızlı ve _____ kontrol edilmek istendiğinde ve gerçek değer _____.",
+    "answerDe": "großen · engen · sicher · nicht (benötigt)",
+    "answerTr": "Büyük · dar · güvenli · gerekli değildir",
+    "questionPronunciationTr": "das Lehrın mit Grentslehrın ist gegınübır dem Messın fortaylaft, fenn Ferkstüke mit Normmasın in _____ Ştüktsahlın bay _____ Tolerantsın şnell und _____ überprüft ferdın sollın und dii Istferte _____ bınötigt ferdın.",
+    "answerPronunciationTr": "grosın · engın · sihır · niht (bınötigt)"
+  },
+  {
+    "topicId": "grenzlehren",
+    "questionDe": "Beschreiben Sie, wie sich Gut- und Ausschussseite verhalten, wenn das Maß innerhalb der Toleranz liegt.",
+    "questionTr": "Ölçü tolerans içindeyse, geçer ve geçmez taraflarının nasıl davrandığını açıklayın.",
+    "answerDe": "Die Gutseite muss durch das Eigengewicht der Lehre in die Bohrung oder über die Welle gleiten. Die Ausschussseite darf lediglich „anschnäbeln\".",
+    "answerTr": "Geçer tarafı, mastarın kendi ağırlığıyla deliğe girmeli veya milin üzerinden kayarak geçmelidir. Geçmez tarafı yalnızca “tutuşabilir\" (anschnäbeln).",
+    "questionPronunciationTr": "Beşraybın Sii, fii sih Gut- und Ausşusssayte feraltın, fenn das Mas inneralb dea Tolerants liigt.",
+    "answerPronunciationTr": "dii Gutsayte muss durh das Aygengefiht dea Lehre in dii Bohrung odır übır dii Felle glaytın. dii Ausşusssayte darf lediglih „anşnebeln\"."
+  },
+  {
+    "topicId": "verbindungsarten",
+    "questionDe": "Lösbare Verbindungen können _____ Zerstörung der Bauteile gelöst werden. Unlösbare Verbindungen können nur _____ Zerstörung der Bauteile gelöst werden.",
+    "questionTr": "Sökülebilir bağlantılar parçaları _____ açılabilir. Sökülemez bağlantılar yalnızca parçaları _____ açılabilir.",
+    "answerDe": "ohne · durch",
+    "answerTr": "tahrip etmeden (ohne) · tahrip ederek (durch)",
+    "questionPronunciationTr": "Lösbare Ferbindungın könnın _____ Tserstörung dea Bautayle gelöşt ferdın. Unlösbare Ferbindungın könnın nur _____ Tserstörung dea Bautayle gelöşt ferdın.",
+    "answerPronunciationTr": "ohne · durh"
+  },
+  {
+    "topicId": "verbindungsarten",
+    "questionDe": "Kraftschlüssige Verbindungen übertragen die Kraft durch _____ innerhalb der Fügestelle. Formschlüssige Verbindungen übertragen die Kraft durch die _____ der Bauteile. Stoffschlüssige Verbindungen übertragen die Kraft durch das _____ von _____ mit oder ohne Zusatzwerkstoff.",
+    "questionTr": "Kuvvet bağı bağlantıları kuvveti birleşme noktasında _____ yoluyla aktarır. Biçim bağı bağlantıları kuvveti parçaların _____ ile aktarır. Madde bağı bağlantıları kuvveti malzemelerin _____ aracılığıyla aktarır (ek malzeme ile veya onsuz).",
+    "answerDe": "Reibung · geometrische Form · Vereinigen von Werkstoffen",
+    "answerTr": "Sürtünme (Reibung) · Geometrik biçim · Malzemelerin birleştirilmesi",
+    "questionPronunciationTr": "Kraftşlüssige Ferbindungın übertragın dii Kraft durh _____ inneralb dea Fügestelle. Formşlüssige Ferbindungın übertragın dii Kraft durh dii _____ dea Bautayle. Ştoffşlüssige Ferbindungın übertragın dii Kraft durh das _____ fon _____ mit odır ohne Tsusattsferkstoff.",
+    "answerPronunciationTr": "Raybung · geometrişe Form · Feraynigın fon Ferkstoffın"
+  },
+  {
+    "topicId": "verbindungsarten",
+    "questionDe": "Benennen Sie die dargestellten Verbindungen und ordnen Sie Kraft-/Form-/Stoffschluss sowie lösbar/unlösbar zu.",
+    "questionTr": "Gösterilen bağlantıları adlandırın ve kuvvet/biçim/madde bağı ile sökülebilir/sökülemez olarak sınıflandırın.",
+    "answerDe": "Schraubenverbindung – Kraftschluss – lösbar Stiftverbindung – Formschluss – lösbar Schweißverbindung – Stoffschluss – unlösbar Falzverbindung – Formschluss – unlösbar Kegelverbindung – Kraftschluss – lösbar Welle-Nabe-Verbindung – Formschluss – lösbar Zahnradpaarung – Formschluss – lösbar Klemmverbindung – Kraftschluss – lösbar Kleb-/Lötverbindung – Stoffschluss – unlösbar Bolzenverbindung – Formschluss – lösbar",
+    "answerTr": "Cıvata bağlantısı – kuvvet bağı – sökülebilir Pim bağlantısı – biçim bağı – sökülebilir Kaynak bağlantısı – madde bağı – sökülemez Kıvırma bağlantısı – biçim bağı – sökülemez Konik bağlantı – kuvvet bağı – sökülebilir Mil-göbek bağlantısı – biçim bağı – sökülebilir Dişli çark çifti – biçim bağı – sökülebilir Kelepçe bağlantısı – kuvvet bağı – sökülebilir Yapıştırma/lehim bağlantısı – madde bağı – sökülemez Saplama bağlantısı – biçim bağı – sökülebilir",
+    "questionPronunciationTr": "Benennın Sii dii dargestelltın Ferbindungın und ordnın Sii Kraft-/Form-/Ştoffşluss sofii lösbar/unlösbar tsu.",
+    "answerPronunciationTr": "Şraubenferbindung – Kraftşluss – lösbar Ştiftferbindung – Formşluss – lösbar Şfaysferbindung – Ştoffşluss – unlösbar Faltsferbindung – Formşluss – unlösbar Kegelferbindung – Kraftşluss – lösbar Felle-Nabe-Ferbindung – Formşluss – lösbar Tsahnradpaarung – Formşluss – lösbar Klemmferbindung – Kraftşluss – lösbar Kleb-/Lötferbindung – Ştoffşluss – unlösbar Boltsenferbindung – Formşluss – lösbar"
+  },
+  {
+    "topicId": "montage-von-schraubenverbindungen",
+    "questionDe": "Zur Montage von Sechskantschrauben werden unterschiedliche Werkzeuge eingesetzt. Benennen Sie die dargestellten Werkzeuge.",
+    "questionTr": "Altıgen cıvataların montajı için farklı aletler kullanılır. Resimdeki aletleri adlandırın.",
+    "answerDe": "Doppelmaulschlüssel · Doppelringschlüssel · Ringmaulschlüssel · Steckschlüssel",
+    "answerTr": "Çift çatal anahtar · Çift yıldız anahtar · Yıldız-çatal anahtar · Lokma anahtar",
+    "questionPronunciationTr": "Tsur Montage fon Sehskantşraubın ferdın untırşiidlie Ferktsoyge ayngesettst. Benennın Sii dii dargestelltın Ferktsoyge.",
+    "answerPronunciationTr": "Doppelmaulşlüssel · Doppelringşlüssel · Ringmaulşlüssel · Ştekşlüssel"
+  },
+  {
+    "topicId": "montage-von-schraubenverbindungen",
+    "questionDe": "Wozu dienen die dargestellten Werkzeuge, wie heißen sie normgerecht und wie werden sie meist in der Werkstatt genannt?",
+    "questionTr": "Bu aletler ne işe yarar, standart adı nedir ve atölyede genelde nasıl adlandırılır?",
+    "answerDe": "Die Winkelschraubendreher eignen sich z. B. für Zylinderschrauben mit Innensechskant und werden oft als Inbusschlüssel bezeichnet.",
+    "answerTr": "Açılı tornavidalar; örn. içten altıgen başlı silindirik cıvatalar için uygundur ve genelde “Allen/Imbus anahtarı\" denir.",
+    "questionPronunciationTr": "Fotsu diinın dii dargestelltın Ferktsoyge, fii aysın sii normgereht und fii ferdın sii mayst in dea Ferkstatt genannt?",
+    "answerPronunciationTr": "dii Finkelşraubendrehır aygnın sih ts. B. für Tsylindırşraubın mit Innensehskant und ferdın oft als Inbusşlüssel betsayhnet."
+  },
+  {
+    "topicId": "montage-von-schraubenverbindungen",
+    "questionDe": "Der dargestellte Schraubenschlüssel wird mit einer Handkraft von 150 N angezogen (l = 200 mm). Welches Drehmoment wird aufgebracht?",
+    "questionTr": "Resimdeki anahtar 150 N el kuvvetiyle sıkıştırılıyor (l = 200 mm). Hangi tork uygulanıyor?",
+    "answerDe": "M = F · l = 150 N · 200 mm · (1 m / 1000 mm) = 30 N·m",
+    "answerTr": "M = F · l = 150 N · 200 mm · (1 m / 1000 mm) = 30 N·m",
+    "questionPronunciationTr": "dea dargestellte Şraubınşlüssel fird mit aynır Andkraft fon 150 N angetsogın (l = 200 mm). Feles Drehmoment fird aufgebraht?",
+    "answerPronunciationTr": "M = F · l = 150 N · 200 mm · (1 m / 1000 mm) = 30 N·m"
+  },
+  {
+    "topicId": "montage-von-schraubenverbindungen",
+    "questionDe": "Begründen Sie, warum und wie Drehmomentschlüssel eingesetzt werden.",
+    "questionTr": "Tork anahtarının neden ve nasıl kullanıldığını açıklayın.",
+    "answerDe": "Sie werden verwendet, um Schrauben mit einem bestimmten Drehmoment anzuziehen. Wird das eingestellte Drehmoment beim Anziehen erreicht, bekommt die Fachkraft einen fühlbaren Impuls durch das Werkzeug.",
+    "answerTr": "Cıvataları belirli bir torkla sıkmak için kullanılırlar. Ayarlanan tork değerine ulaşıldığında, uzman alet üzerinden hissedilir bir “klik\"/darbe alır.",
+    "questionPronunciationTr": "Begründın Sii, farum und fii Drehmomentşlüssel ayngesettst ferdın.",
+    "answerPronunciationTr": "Sii ferdın ferfendet, um Şraubın mit aynem bestimmtın Drehmoment antsutsiihın. Fird das ayngestellte Drehmoment baym Antsiihın errayht, bekommt dii Fahkraft aynın fühlbarın Impuls durh das Ferktsoyg."
+  },
+  {
+    "topicId": "wartung-vorbereitung-und-sicherheitszeichen",
+    "questionDe": "Nennen Sie drei Vorbereitungen, die vor jeder Wartungstätigkeit getroffen werden müssen.",
+    "questionTr": "Her bakımdan önce yapılması gereken üç hazırlığı söyleyin.",
+    "answerDe": "• Vor Beginn der Wartungsarbeiten muss der Wartungsplan gelesen werden. • Es müssen die für die Wartungsarbeiten nötigen Betriebsmittel bereitgestellt werden. • Die für die Wartungsarbeiten nötigen Sicherheitshinweise müssen beachtet werden.",
+    "answerTr": "• Bakım işlerine başlamadan önce bakım planı okunmalıdır. • Bakım için gerekli sarflar/malzemeler hazırlanmalıdır. • Bakım için gerekli güvenlik talimatlarına uyulmalıdır.",
+    "questionPronunciationTr": "Nennın Sii dray Forberaytungın, dii for yedır Fartungstetigkayt getroffın ferdın müssın.",
+    "answerPronunciationTr": "• For Beginn dea Fartungsarbaytın muss dea Fartungsplan gelesın ferdın. • Es müssın dii für dii Fartungsarbaytın nötigın Betriibsmittel beraytgestellt ferdın. • dii für dii Fartungsarbaytın nötigın Sieraytsinfayse müssın beahtet ferdın."
+  },
+  {
+    "topicId": "wartung-vorbereitung-und-sicherheitszeichen",
+    "questionDe": "Beschreiben Sie die Bedeutung der Sicherheitszeichen und ordnen Sie sie zu (Warn-, Verbots-, Gebots-, Rettungs-, Brandschutzzeichen).",
+    "questionTr": "Güvenlik işaretlerinin anlamını yazın ve gruplayın (uyarı, yasak, zorunluluk, kurtarma, yangın koruma).",
+    "answerDe": "Warnung vor ätzenden Stoffen – Warnzeichen Augenschutz tragen – Gebotszeichen Besteigen für Unbefugte verboten – Verbotszeichen Augenspüleinrichtung – Rettungszeichen Brandmelder, manuell – Brandschutzzeichen Essen und Trinken verboten – Verbotszeichen Schutzhandschuhe tragen – Gebotszeichen Warnung vor elektrischer Spannung – Warnzeichen Verbot für Personen mit Herzschrittmacher – Verbotszeichen",
+    "answerTr": "Aşındırıcı maddelere karşı uyarı – Uyarı işareti Koruyucu gözlük tak – Zorunluluk işareti Yetkisizlere tırmanma yasak – Yasak işareti Göz duşu – Kurtarma işareti Manuel yangın alarmı – Yangın koruma işareti Yemek ve içmek yasak – Yasak işareti Koruyucu eldiven tak – Zorunluluk işareti Elektrik gerilimine karşı uyarı – Uyarı işareti Kalp pilli kişilere yasak – Yasak işareti",
+    "questionPronunciationTr": "Beşraybın Sii dii Bedoytung dea Sieraytstsayhın und ordnın Sii sii tsu (Farn-, Ferbots-, Gebots-, Rettungs-, Brandşuttstsayhın).",
+    "answerPronunciationTr": "Farnung for ettsendın Ştoffın – Farntsayhın Augınşutts tragın – Gebotstsayhın Bestaygın für Unbefugte ferbotın – Ferbotstsayhın Augenspülaynrihtung – Rettungstsayhın Brandmeldır, manuell – Brandşuttstsayhın Essın und Trinkın ferbotın – Ferbotstsayhın Şuttsandşue tragın – Gebotstsayhın Farnung for elektrişır Şpannung – Farntsayhın Ferbot für Personın mit Ertsşrittmahır – Ferbotstsayhın"
+  },
+  {
+    "topicId": "korrosion",
+    "questionDe": "Welche Ursachen für Korrosionsschäden kennen Sie?",
+    "questionTr": "Korozyon hasarının nedenleri nelerdir?",
+    "answerDe": "Korrosion entsteht, wenn Metalloberflächen feuchten klimatischen Bedingungen oder hohen Temperaturen ausgesetzt sind. Eine weitere Ursache ist, wenn an der Berührstelle von zwei verschiedenen Metallen eine elektrisch leitende Substanz (Elektrolyt) vorliegt.",
+    "answerTr": "Korozyon; metal yüzeyleri nemli iklim koşullarına veya yüksek sıcaklıklara maruz kaldığında oluşur. Bir başka neden ise iki farklı metalin temas noktasında elektriği ileten bir madde (elektrolit) bulunmasıdır.",
+    "questionPronunciationTr": "Fele Ursahın für Korrosionsşedın kennın Sii?",
+    "answerPronunciationTr": "Korrosion entsteht, fenn Metalloberflehın foyhtın klimatişın Bedingungın odır ohın Temperaturın ausgesettst sind. Ayne faytere Ursae ist, fenn an dea Bırührstelle fon tsfay fırşiidenın Metallın ayne elektriş laytende Substants (Elektrolyt) forliigt."
+  },
+  {
+    "topicId": "korrosion",
+    "questionDe": "In feuchter Umgebung verbinden sich Sauerstoff und Eisen zu _____. Sauerstoff und Aluminium bilden eine _____.",
+    "questionTr": "Nemli ortamda oksijen ve demir _____ oluşturur. Oksijen ve alüminyum bir _____ oluşturur.",
+    "answerDe": "Rost · Oxidschicht",
+    "answerTr": "Rost (pas) · Oxidschicht (oksit tabakası)",
+    "questionPronunciationTr": "In foyhtır Umgebung ferbindın sih Sauerstoff und Aysın tsu _____. Sauerstoff und Aluminium bildın ayne _____.",
+    "answerPronunciationTr": "Rost · Oxidşiht"
+  },
+  {
+    "topicId": "korrosion",
+    "questionDe": "Welche Eigenschaften haben die Oxidschichten bei Kupfer, Aluminium und Zink im Vergleich zu Stahl?",
+    "questionTr": "Bakır, alüminyum ve çinkonun oksit tabakaları çeliğe göre hangi özelliklere sahiptir?",
+    "answerDe": "Im Gegensatz zur porösen Rostschicht von Eisen und Stahl sind die Oxidschichten von Kupfer, Aluminium und Zink dicht und fest. Sie schützen so das darunterliegende Metall.",
+    "answerTr": "Demir ve çeliğin gözenekli pas tabakasının aksine, bakır, alüminyum ve çinkonun oksit tabakaları yoğun ve sağlamdır. Böylece alttaki metali korurlar.",
+    "questionPronunciationTr": "Fele Aygınşaftın abın dii Oxidşihtın bay Kupfır, Aluminium und Tsink im Ferglayh tsu Ştahl?",
+    "answerPronunciationTr": "Im Gegensatts tsur porösın Rostşiht fon Aysın und Ştahl sind dii Oxidşihtın fon Kupfır, Aluminium und Tsink diht und fest. Sii şüttsın so das darunterliigende Metall."
+  },
+  {
+    "topicId": "korrosion",
+    "questionDe": "Warum rostet eine raue Oberfläche schneller als eine glatte Oberfläche?",
+    "questionTr": "Pürüzlü yüzey neden düz yüzeyden daha hızlı paslanır?",
+    "answerDe": "Eine raue Oberfläche bietet der Korrosion mehr Angriffsfläche.",
+    "answerTr": "Pürüzlü yüzey, korozyona daha fazla saldırı alanı sunar.",
+    "questionPronunciationTr": "Farum rostet ayne raue Oberflee şnellır als ayne glatte Oberflee?",
+    "answerPronunciationTr": "Ayne raue Oberflee biitet dea Korrosion mehr Angriffsflee."
+  },
+  {
+    "topicId": "korrosion",
+    "questionDe": "Benennen Sie vier Formen der Korrosion freier Oberflächen.",
+    "questionTr": "Serbest yüzey korozyonunun dört türünü adlandırın.",
+    "answerDe": "Gleichmäßige Flächenkorrosion · Muldenkorrosion · Lochkorrosion · Spalt- oder Risskorrosion",
+    "answerTr": "Üniform yüzey korozyonu · Çukurcuk korozyonu · Delik korozyonu (pitting) · Çatlak/yarık korozyonu",
+    "questionPronunciationTr": "Benennın Sii fiir Formın dea Korrosion frayır Oberflehın.",
+    "answerPronunciationTr": "Glayhmesige Fleenkorrosion · Muldenkorrosion · Lohkorrosion · Şpalt- odır Risskorrosion"
+  }
+]

@@ -6,8 +6,144 @@
   <title>AYDA Dil Akademisi | CNC Mesleki Almanca Kelime Platformu</title>
   <meta name="description" content="Türk CNC uzmanları için Almanca teknik sözlük, kelime kartları ve alıştırmalar.">
   <link rel="stylesheet" href="./assets/css/style.css">
+
+  <!-- AYDA MERKEZİ ŞİFRE SİSTEMİ - SADECE GİRİŞ EKRANI STİLİ -->
+  <style>
+    #aydaLoginBox {
+      position: fixed;
+      inset: 0;
+      z-index: 999999;
+      display: grid;
+      place-items: center;
+      padding: 20px;
+      background: #f4f7fb;
+      font-family: Arial, sans-serif;
+    }
+
+    #aydaLoginBox .ayda-login-card {
+      width: 100%;
+      max-width: 420px;
+      box-sizing: border-box;
+      background: #fff;
+      border: 1px solid #dbe3ef;
+      border-radius: 22px;
+      padding: 26px;
+      box-shadow: 0 18px 45px rgba(23, 52, 102, 0.16);
+    }
+
+    #aydaLoginBox .ayda-login-logo {
+      width: 58px;
+      height: 58px;
+      display: grid;
+      place-items: center;
+      margin-bottom: 16px;
+      border-radius: 16px;
+      background: #173466;
+      color: #fff;
+      font-size: 20px;
+      font-weight: 800;
+    }
+
+    #aydaLoginBox h1 {
+      margin: 0 0 8px;
+      color: #173466;
+      font-size: 24px;
+      line-height: 1.25;
+    }
+
+    #aydaLoginBox p {
+      margin: 0 0 18px;
+      color: #667085;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    #aydaLoginBox .ayda-password-row {
+      display: flex;
+      gap: 10px;
+    }
+
+    #aydaPasswordInput {
+      flex: 1;
+      min-width: 0;
+      box-sizing: border-box;
+      border: 1px solid #cfd8e6;
+      border-radius: 14px;
+      padding: 14px 15px;
+      background: #fff;
+      color: #111827;
+      font: inherit;
+      font-size: 16px;
+      outline: none;
+    }
+
+    #aydaPasswordInput:focus {
+      border-color: #173466;
+      box-shadow: 0 0 0 4px rgba(23, 52, 102, 0.10);
+    }
+
+    #aydaLoginBox .ayda-login-btn {
+      border: 0;
+      border-radius: 14px;
+      padding: 0 18px;
+      background: #173466;
+      color: #fff;
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    #aydaLoginMessage {
+      min-height: 18px;
+      margin-top: 12px;
+      color: #c62828;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    #aydaProtectedContent {
+      display: none;
+    }
+
+    @media (max-width: 640px) {
+      #aydaLoginBox .ayda-password-row {
+        flex-direction: column;
+      }
+
+      #aydaLoginBox .ayda-login-btn {
+        padding: 14px 18px;
+      }
+    }
+  </style>
 </head>
 <body>
+
+  <!-- AYDA MERKEZİ ŞİFRE GİRİŞİ -->
+  <section id="aydaLoginBox" aria-label="AYDA giriş ekranı">
+    <div class="ayda-login-card">
+      <div class="ayda-login-logo">AY</div>
+      <h1>CNC Mesleki Almanca</h1>
+      <p>Devam etmek için size verilen sınıf kodunu veya giriş parolasını yazınız.</p>
+
+      <div class="ayda-password-row">
+        <input
+          id="aydaPasswordInput"
+          type="password"
+          placeholder="Giriş parolası"
+          autocomplete="off"
+          aria-describedby="aydaLoginMessage"
+          onkeydown="if(event.key==='Enter'){aydaCheckPassword();}"
+        >
+        <button class="ayda-login-btn" type="button" onclick="aydaCheckPassword()">Giriş</button>
+      </div>
+
+      <div id="aydaLoginMessage" role="status" aria-live="polite"></div>
+    </div>
+  </section>
+
+  <!-- ŞİFRE DOĞRULANINCA AÇILAN MEVCUT SİTE -->
+  <div id="aydaProtectedContent">
+
   <header class="hero" id="top">
     <div class="topbar wrap">
       <div class="brand"><span class="brand-mark">AY</span><span>AYDA Dil Akademisi</span></div>
@@ -178,6 +314,14 @@
   <footer>© AYDA Dil Akademisi — CNC Mesleki Almanca Çalışma Platformu</footer>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
+  </div>
+
   <script src="./assets/js/app.js" defer></script>
+
+  <!-- AYDA MERKEZİ ŞİFRE KONTROLÜ -->
+  <script
+    src="https://onurqlp.github.io/ayda-pass/access-control.js"
+    onerror="document.getElementById('aydaLoginMessage').textContent='Şifre sistemi yüklenemedi.'"
+  ></script>
 </body>
 </html>
